@@ -1,0 +1,6 @@
+PDSDT --> PPGR 	(Proyecto Procuraduria General de la Republica)
+PDS       --> PRTS   	(Proceso de recspcion y trazabilidad de Solicitudes)
+DT          --> ET  	(Especificaciones Tecnicas)
+	PGR 	(Procuraduria General de la Republica)
+	S&S	(System and Solutions)
+
